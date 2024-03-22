@@ -34,13 +34,13 @@ If NLTK or Wikipedia API is not installed, you can install them using pip. Open 
 
 ## **Running the Program**
 
-To run the Chatbot Assistant:
+To run the ChatBot Assistant:
 
 1. Ensure you have Python installed on your system.
-2. Copy the provided code into a Python file (e.g., chatbot.py).
+2. Copy the provided code into a Python file (e.g., ChatBotAssistant.py).
 3. Run the Python file using the following command:
 
-:> python chatbot.py
+:> python ChatBotAssistant.py
 
 ## **Notes**
 
@@ -50,4 +50,4 @@ To run the Chatbot Assistant:
 
 ## **Support**
 
-For any questions, suggestions, or issues, please contact kasa pogu dharma teja at dharmateja238@gmail.com.
+For any questions, suggestions, or issues, please contact at dharmateja238@gmail.com.
