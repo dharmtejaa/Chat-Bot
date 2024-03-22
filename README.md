@@ -1,6 +1,6 @@
 # **Chatbot Assistant**
 
-Chatbot Assistant is a Python program developed for internship task 1. It utilizes NLTK for text processing and Wikipedia API for information retrieval. The chatbot supports interactive conversation and sentiment analysis.
+Chatbot Assistant is a Python program developed for slash mark internship.It utilizes NLTK for text processing and Wikipedia API for information retrieval. The chatbot supports interactive conversation and sentiment analysis.
 
 ## **Features**
 
