@@ -6,7 +6,7 @@ Chatbot Assistant is a Python program developed for slash mark internship.It uti
 
 - Interactive Conversation: Engage in interactive conversations with the chatbot.
 - Sentiment Analysis: Analyze the sentiment of user input.
-- nformation Retrieval: Retrieve information from Wikipedia based on user queries.
+- Information Retrieval: Retrieve information from Wikipedia based on user queries.
 
 ## **Requirements**
 
